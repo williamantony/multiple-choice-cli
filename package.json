@@ -1,0 +1,20 @@
+{
+  "name": "multiple-choice-cli-test",
+  "version": "1.0.1",
+  "description": "",
+  "main": "./lib/MultipleChoice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamantony/multiple-choice-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamantony/multiple-choice-cli/issues"
+  },
+  "homepage": "https://github.com/williamantony/multiple-choice-cli#readme"
+}

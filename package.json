@@ -4,17 +4,17 @@
   "description": "",
   "main": "./lib/MultipleChoice.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo 'No Tests Available'"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/williamantony/multiple-choice-cli.git"
+    "url": "git+https://github.com/willsquad/multiple-choice-cli.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/williamantony/multiple-choice-cli/issues"
+    "url": "https://github.com/willsquad/multiple-choice-cli/issues"
   },
-  "homepage": "https://github.com/williamantony/multiple-choice-cli#readme"
+  "homepage": "https://github.com/willsquad/multiple-choice-cli#readme"
 }
